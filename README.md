@@ -1,7 +1,6 @@
 # Minimalist Portfolio
 Single page portfolio made with [Astro](https://astro.build/)
 
-![Minimalist Portfolio](/images/web.png)
 
 ## Demo
 View a live demo: [slydragonn.velcel.app](https://slydragonn.vercel.app)
